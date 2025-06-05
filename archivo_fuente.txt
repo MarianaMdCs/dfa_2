@@ -1,0 +1,9 @@
+varier x = 10
+si (x > 5) {
+    afficher("Mayor a 5")
+}
+:)Comentario una linea
+:)[ comentario multilinea ]:)
+23
+12.342
+varier y = 34 + 42
