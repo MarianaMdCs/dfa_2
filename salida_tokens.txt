@@ -1,0 +1,26 @@
+PALABRA_RESERVADA(varier) en línea 1, columna 1
+ID(x) en línea 1, columna 8
+ASSIGN(=) en línea 1, columna 10
+INT(10) en línea 1, columna 12
+PALABRA_RESERVADA(si) en línea 2, columna 1
+LPAREN(() en línea 2, columna 4
+ID(x) en línea 2, columna 5
+GT(>) en línea 2, columna 7
+INT(5) en línea 2, columna 9
+RPAREN()) en línea 2, columna 10
+LBRACE({) en línea 2, columna 12
+PALABRA_RESERVADA(afficher) en línea 3, columna 5
+LPAREN(() en línea 3, columna 13
+STRING("Mayor a 5") en línea 3, columna 14
+RPAREN()) en línea 3, columna 25
+RBRACE(}) en línea 4, columna 1
+COMMENT1(:)Comentario una linea) en línea 5, columna 1
+COMMENT2(:)[ comentario multilinea ]:)) en línea 6, columna 1
+INT(23) en línea 7, columna 1
+FLOAT(12.342) en línea 8, columna 1
+PALABRA_RESERVADA(varier) en línea 9, columna 1
+ID(y) en línea 9, columna 8
+ASSIGN(=) en línea 9, columna 10
+INT(34) en línea 9, columna 12
+PLUS(+) en línea 9, columna 15
+INT(42) en línea 9, columna 17

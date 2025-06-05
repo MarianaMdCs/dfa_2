@@ -1,0 +1,16 @@
+:)(Esto es un comentario de una línea mal cerrado
+:)[Esto es un comentario multilínea mal cerrado
+
+z@ = 5  # carácter ilegal '@'
+
+si (x >= y) {
+    afficher("Resultado: " + x)
+}
+
+sinonSi (x < y) {
+    afficher("Menor")
+}
+
+funcion malEscrito() {
+    retour x
+}

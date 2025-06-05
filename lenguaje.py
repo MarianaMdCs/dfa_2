@@ -98,5 +98,6 @@ if __name__ == '__main__':
         contenido = f.read()
 
     tokens = lexer(contenido)
-    for token in tokens:
-        print(token)
+    with open("salida_tokens.txt", "w", encoding="utf-8") as salida:
+        for token in tokens:
+            salida.write(str(token) + "\n")
